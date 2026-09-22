@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be used in the field of predictive modeling, an
+example would be evaluating the risk of heart disease among senior citizens.
